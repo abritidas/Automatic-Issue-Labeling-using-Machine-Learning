@@ -23,7 +23,7 @@ Follow these steps to run the project locally using Python 3.10.0:
 
 ### Step 1: Install Python 3.10.0
 
-Download and install from the [official Python website](https://www.python.org/download/releases/3.1/)
+Download and install from the [official Python website](https://www.python.org/downloads/release/python-3100/)
 
 ### Step 2: Clone the Repository
 
