@@ -28,7 +28,7 @@ Download and install from the [official Python website](https://www.python.org/d
 ### Step 2: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/issue-labeling-logistic.git
+git clone https://github.com/yourusername/issue-labeling-logistic.git](https://github.com/abritidas/Automatic-Issue-Labeling-using-Machine-Learning.git
 cd issue-labeling-logistic
 ```
 
