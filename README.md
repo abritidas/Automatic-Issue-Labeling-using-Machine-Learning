@@ -1,5 +1,3 @@
-# Automatic-Issue-Labeling-using-Machine-Learning
-
 # 🚀 Automatic Issue Labeling using Machine Learning
 
 This project uses traditional Machine Learning (Logistic Regression with TF-IDF) to automatically classify GitHub issue descriptions into one of the three categories: **bug**, **enhancement**, or **question**. It leverages keyword-based open coding and sklearn's text processing tools to train and evaluate the classifier on labeled issue datasets.
